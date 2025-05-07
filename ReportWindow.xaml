@@ -1,0 +1,26 @@
+﻿<Window x:Class="Prog_Gold.ReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Prog_Gold"
+        mc:Ignorable="d"
+        Title="Отчет" Height="598" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <materialDesign:Card Padding="16" Margin="10">
+            <StackPanel>
+                <TextBlock Text="Отчет по данным" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+                <TextBlock Text="Диапазон дат:" FontWeight="Bold"/>
+                <TextBlock Name="DateRangeText" Margin="0,0,0,10"/>
+                <DataGrid Name="ReportDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Margin="0,10,0,0">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Параметр" Binding="{Binding Key}" Width="*"/>
+                        <DataGridTextColumn Header="Значение" Binding="{Binding Value}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button Content="Печать" HorizontalAlignment="Right" Margin="0,40,0,0" Padding="8" Click="PrintReport_Click"/>
+            </StackPanel>
+        </materialDesign:Card>
+    </Grid>
+</Window>

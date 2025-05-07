@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|c:\\users\\ya.dudarev\\desktop\\dya\\\u002Bprograms\\prog_gold\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\reportwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:reportwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\edit_buhg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:edit_buhg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\avtorize.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:avtorize.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\avtorize.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:avtorize.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\edit_buhg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:edit_buhg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E81BD1B4-C860-45B3-954A-6EE7E8A0BACF}|Prog_Gold.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\ReportWindow.xaml.cs",
+              "RelativeToolTip": "ReportWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:14:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "ReportWindow.xaml",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\ReportWindow.xaml",
+              "RelativeToolTip": "ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T05:11:52.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WC.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\WC.cs",
+              "RelativeDocumentMoniker": "WC.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\WC.cs",
+              "RelativeToolTip": "WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:13:20.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADYCAAAAAAAAAAAwwFICAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:23:10.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T13:23:10.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit_Buhg.xaml",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Edit_Buhg.xaml",
+              "RelativeDocumentMoniker": "Edit_Buhg.xaml",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Edit_Buhg.xaml",
+              "RelativeToolTip": "Edit_Buhg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T09:56:09.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit_Buhg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Edit_Buhg.xaml.cs",
+              "RelativeDocumentMoniker": "Edit_Buhg.xaml.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Edit_Buhg.xaml.cs",
+              "RelativeToolTip": "Edit_Buhg.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwFcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:07:55.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T13:24:32.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Avtorize.xaml",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Avtorize.xaml",
+              "RelativeDocumentMoniker": "Avtorize.xaml",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Avtorize.xaml",
+              "RelativeToolTip": "Avtorize.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T11:39:04.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Avtorize.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Avtorize.xaml.cs",
+              "RelativeDocumentMoniker": "Avtorize.xaml.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Prog_Gold\\Avtorize.xaml.cs",
+              "RelativeToolTip": "Avtorize.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:39:43.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
